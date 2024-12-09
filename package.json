@@ -1,0 +1,16 @@
+{
+  "name": "hashyuh-commission",
+  "version": "1.0.0",
+  "description": "Need an automated command so that everytime a roblox user (account A for example) adds anyone on roblox as a friend (account B [the account I own]) sends a friend request to the person account A added.\r Will need to add 2 commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "discord.js": "^14.16.3",
+    "noblox.js": "^6.0.2"
+  }
+}
