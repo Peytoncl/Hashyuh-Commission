@@ -1,4 +1,4 @@
-# Hashyuh-Commission
+# What the client asked for:
 Need an automated command so that everytime a roblox user (account A for example) adds anyone on roblox as a friend (account B [the account I own]) sends a friend request to the person account A added.
 Will need to add 2 commands
 
